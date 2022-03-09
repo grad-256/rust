@@ -2,9 +2,10 @@
 // mod ownership;
 // rics;
 // mod structs;
-mod enums;
+// mod enums;
 // mod lifetime;
 // mod vars;
+mod traits;
 
 fn main() {
         // println!("Hello, world!");
@@ -18,5 +19,6 @@ fn main() {
         // generics::run()
         // lifetime::run()
         // structs::run()
-        enums::run()
+        // enums::run()
+        traits::run()
 }
