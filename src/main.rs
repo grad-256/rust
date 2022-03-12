@@ -7,7 +7,7 @@
 // mod vars;
 // mod traits;
 mod error_handling;
-
+mod unit_test;
 fn main() {
         // println!("Hello, world!");
         // vars::run();
